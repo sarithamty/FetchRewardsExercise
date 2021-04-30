@@ -1,0 +1,16 @@
+success
+
+The Fake Coin is :0
+The alert message appeared: Yay! You find it!
+The list of Weighings displayed are: 
+[0] < [8]
+[0] < [7]
+***************************************************success
+
+The Fake Coin is :1
+The alert message appeared: Yay! You find it!
+The list of Weighings displayed are: 
+[0] = [8]
+[1] < [7]
+[1] < [6]
+***************************************************

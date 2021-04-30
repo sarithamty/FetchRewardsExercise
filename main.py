@@ -19,3 +19,4 @@ if __name__ == '__main__':
     obj = TestMainPage()
     obj.test_fakeCoin()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
